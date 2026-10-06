@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Programmers Badge](https://raw.githubusercontent.com/77romin/programmers-badge-v1/master/static/result.svg?v=1)
+![Programmers Badge](https://api.programmers-badge.jh8459.com/badge/ebc5a6afc088.svg)
